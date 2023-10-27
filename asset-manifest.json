@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sakshat165/EasyNews.git/static/css/main.073c9b0a.css",
+    "main.js": "/Sakshat165/EasyNews.git/static/js/main.2fb02b2e.js",
+    "static/js/787.66a4299e.chunk.js": "/Sakshat165/EasyNews.git/static/js/787.66a4299e.chunk.js",
+    "index.html": "/Sakshat165/EasyNews.git/index.html",
+    "main.073c9b0a.css.map": "/Sakshat165/EasyNews.git/static/css/main.073c9b0a.css.map",
+    "main.2fb02b2e.js.map": "/Sakshat165/EasyNews.git/static/js/main.2fb02b2e.js.map",
+    "787.66a4299e.chunk.js.map": "/Sakshat165/EasyNews.git/static/js/787.66a4299e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2fb02b2e.js"
+  ]
+}
